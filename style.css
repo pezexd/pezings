@@ -56,7 +56,7 @@ header {
     display: grid;
     font-family: bebas;
     text-align: center;
-    background-image: url(../../header-background.jpg);
+    background-image: url(../header-background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     padding: 25px;
